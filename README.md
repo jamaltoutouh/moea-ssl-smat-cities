@@ -218,21 +218,6 @@ For complete preprocessing details, variable lists, and data citations, see [`da
 
 ---
 
-## 📜 Citation
-
-If you find this work or codebase useful in your research, please cite:
-
-```bibtex
-@article{sedeno2026moeassl,
-  title={Multi-Objective Evolutionary Semi-Supervised Learning for Resource-Aware Smart City Classification},
-  author={Sede{\~n}o, Francisco Jos{\'e} and Toutouh, Jamal},
-  journal={arXiv preprint},
-  year={2026},
-  publisher={Springer}
-}
-```
-
----
 
 ## 🤝 Acknowledgments
 
