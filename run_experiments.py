@@ -29,10 +29,7 @@ import numpy as np
 import pandas as pd
 
 import ea_ssl
-try:
-    import moea_ssl
-except ImportError:
-    import moea2f_ssl as moea_ssl
+import moea2f_ssl as moea_ssl
 import baseline_supervised
 
 
